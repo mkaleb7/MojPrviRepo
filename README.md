@@ -1,0 +1,2 @@
+# MojPrviRepo
+First git repo
